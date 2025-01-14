@@ -71,6 +71,27 @@ a {
     color: #4CAF50;
     text-decoration: underline;
 }
+/* Ajusta o tamanho da imagem */
+img {
+    width: 100%; /* Define a largura para 100% do elemento pai */
+    max-width: 500px; /* Define a largura máxima para 500px */
+    height: auto; /* Mantém a proporção da imagem */
+  }
+  
+  /* Outra classe para tamanhos fixos */
+  .img-fixed {
+    width: 300px; /* Define uma largura fixa */
+    height: 200px; /* Define uma altura fixa */
+    object-fit: cover; /* Ajusta o conteúdo da imagem para caber na área definida */
+    border-radius: 10px; /* Adiciona cantos arredondados (opcional) */
+  }
+  
+  /* Classe para centralizar a imagem */
+  .img-center {
+    display: block;
+    margin: 0 auto;
+  }
+ 
 a:hover {
     text-decoration: none;
 }
