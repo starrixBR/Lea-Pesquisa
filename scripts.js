@@ -112,7 +112,7 @@ const professores = [
     });
   });
   
-  // Feedback
+  /* Feedback
   document.getElementById('form-feedback').addEventListener('submit', (event) => {
     event.preventDefault();
   
@@ -121,4 +121,4 @@ const professores = [
   
     alert(`Seu feedback foi enviado para o professor ${nomeProfessor}!`);
     event.target.reset();
-  });
+  });*/
