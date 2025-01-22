@@ -5,75 +5,82 @@ const professores = [
       areas: ["História em quadrinhos"], 
       linguas: ["Inglês"], 
       lattes: "http://lattes.cnpq.br/9582760816449975", 
-      foto: "imagens/avatar-generico.jpg" 
+      foto: "imagens/ALESSANDRA QUIZ.jpg" 
     },
     { 
       nome: "Antônio Marcos Moreira", 
       areas: ["Questões de gênero"], 
       linguas: ["Francês"], 
       lattes: "#", 
-      foto: "imagens/avatar-generico.jpg" 
+      foto: "imagens/ANTÔNIO QUIZ.jpg" 
     },
     { 
       nome: "Cesário Alvim Pereira Filho", 
       areas: ["Linguística"], 
       linguas: ["Espanhol"], 
       lattes: "#", 
-      foto: "imagens/avatar-generico.jpg" 
+      foto: "imagens/CESARIO QUIZ.jpg" 
     },
     { 
       nome: "Charles Rocha Teixeira", 
       areas: ["Tradução"], 
       linguas: ["Francês"], 
       lattes: "#", 
-      foto: "imagens/avatar-generico.jpg" 
+      foto: "imagens/Charles Rocha Teixeira.jpg" 
     },
     { 
       nome: "Clarissa Prado Marini", 
       areas: ["Linguística"], 
       linguas: ["Francês"], 
       lattes: "#", 
-      foto: "imagens/avatar-generico.jpg" 
+      foto: "imagens/CLARISSA QUIZ.jpg" 
     },
     { 
       nome: "Fernanda Alencar Pereira", 
       areas: ["Literatura"], 
       linguas: ["Inglês"], 
       lattes: "#", 
-      foto: "imagens/avatar-generico.jpg" 
+      foto: "imagens/FERNANDA QUIZ.jpg" 
     },
     { 
       nome: "Helena Santiago Vigata", 
       areas: ["Programação"], 
       linguas: ["Espanhol"], 
       lattes: "#", 
-      foto: "imagens/avatar-generico.jpg" 
+      foto: "imagens/HELENA QUIZ.jpg" 
     },
     { 
       nome: "Marcos de Campos Carneiro", 
       areas: ["Linguística de Corpus"], 
       linguas: ["Francês"], 
       lattes: "#", 
-      foto: "imagens/avatar-generico.jpg" 
+      foto: "imagens/MARCOS QUIZ.jpg" 
     },
     { 
       nome: "Susana Martínez Martínez", 
       areas: ["Multilinguísmo", "Línguas indígenas"], 
       linguas: ["Espanhol"], 
       lattes: "#", 
-      foto: "imagens/avatar-generico.jpg" 
+      foto: "imagens/SUSANA QUIZ 1.jpg" 
     },
     { 
       nome: "Thiago Blanch Pires", 
       areas: ["Programação", "Multilinguísmo"], 
       linguas: ["Inglês"], 
       lattes: "#", 
-      foto: "imagens/avatar-generico.jpg" 
+      foto: "imagens/THIAGO QUIZ 1.jpg" 
     },
     { 
       nome: "Virgílio Pereira de Almeida", 
       areas: ["Língua e cultura"], 
       linguas: ["Inglês"], 
+      lattes: "#", 
+      foto: "imagens/VIRGÍLIO QUIZ.jpg" 
+    },
+    { 
+      nome: "Alessandra Fernandes Barbosa", 
+      areas: ["Língua e cultura"], 
+      linguas: ["Alemão"], 
       lattes: "#", 
       foto: "imagens/avatar-generico.jpg" 
     },
