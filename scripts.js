@@ -78,11 +78,11 @@ const professores = [
       foto: "imagens/VIRGÍLIO QUIZ.jpg" 
     },
     { 
-      nome: "Alessandra Fernandes Barbosa", 
+      nome: "Adriana Fernandes Barbosa", 
       areas: ["Língua e cultura"], 
       linguas: ["Alemão"], 
       lattes: "#", 
-      foto: "imagens/ALESSANDRA FERNANDES QUIZ.jpg" 
+      foto: "imagens/ADRIANA QUIZ.jpg" 
     },
     // Adicione os outros professores aqui...
   ];
