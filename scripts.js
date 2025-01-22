@@ -26,7 +26,7 @@ const professores = [
       areas: ["Tradução"], 
       linguas: ["Francês"], 
       lattes: "#", 
-      foto: "imagens/Charles Rocha Teixeira.jpg" 
+      foto: "imagens/CHARLES QUIZ.jpg" 
     },
     { 
       nome: "Clarissa Prado Marini", 
@@ -82,7 +82,7 @@ const professores = [
       areas: ["Língua e cultura"], 
       linguas: ["Alemão"], 
       lattes: "#", 
-      foto: "imagens/avatar-generico.jpg" 
+      foto: "imagens/ALESSANDRA FERNANDES QUIZ.jpg" 
     },
     // Adicione os outros professores aqui...
   ];
