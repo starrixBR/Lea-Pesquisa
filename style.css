@@ -6,7 +6,7 @@ html, body {
   flex-direction: column;
   font-family: Arial, sans-serif;
   line-height: 1.6;
-  background-color: #fff8e5; /* Tom claro derivado do amarelo */
+  background-color: #fffbee; /* Tom claro derivado do amarelo */
   color: #000000;
 }
 
@@ -50,7 +50,7 @@ main {
   max-width: 800px;
   margin: 20px auto;
   padding: 20px;
-  background: #fff5e1; /* Tom pastel derivado do amarelo */
+  background: #fdf7ea; /* Tom pastel derivado do amarelo */
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
