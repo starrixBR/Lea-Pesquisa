@@ -90,7 +90,7 @@ const professores = [
       email: "virgilioalm@unb.br" 
     },
     { 
-      nome: "Alessandra Fernandes Barbosa", 
+      nome: "Adriana Fernandes Barbosa", 
       areas: ["Língua e cultura"], 
       linguas: ["Alemão"], 
       lattes: "http://lattes.cnpq.br/3065127356052281", 
