@@ -93,7 +93,7 @@ const professores = [
     { 
       nome: "Susana Martínez Martínez", 
       areas: ["Multilinguismo", "Línguas indígenas", "Sociedade da Informação", "Tradução", "Língua e cultura", 
-      "Questões de gênero", "Interpretação", "Sociolinguística", "Sociologia da linguagem", "Migrações internacionais"], 
+      "Questões de gênero", "Interpretação", "Sociolinguística", "Sociologia da Linguagem", "Migrações internacionais"], 
       // Sugeriu: Interpretação, sociolinguística, sociologia da linguagem e migrações internacionais!
       linguas: ["Espanhol", "Inglês", "Francês",], //Sugeriu: Português! 
       lattes: "http://lattes.cnpq.br/5780998946017708", 
