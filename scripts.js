@@ -70,7 +70,7 @@ const professores = [
       "Línguas indígenas", "Processamento da Linguagem Natural"], // Sugeriu: Processamento da Linguagem Natural
       linguas: ["Inglês", "Francês", "Espanhol"], 
       lattes: "http://lattes.cnpq.br/0356163607813759", 
-      foto: "imagens/FRANCISCO QUIZ 1.jpg",
+      foto: "imagens/FRANCISCO QUIZ 2.jpg",
       email: "claudiomenezes@unb.br" 
     },
     { 
@@ -95,7 +95,7 @@ const professores = [
       areas: ["Multilinguismo", "Línguas indígenas", "Sociedade da Informação", "Tradução", "Língua e cultura", 
       "Questões de gênero", "Interpretação", "Sociolinguística", "Sociologia da Linguagem", "Migrações internacionais"], 
       // Sugeriu: Interpretação, sociolinguística, sociologia da linguagem e migrações internacionais!
-      linguas: ["Espanhol", "Inglês", "Francês",], //Sugeriu: Português! 
+      linguas: ["Espanhol", "Inglês", "Francês","Português"], //Sugeriu: Português! 
       lattes: "http://lattes.cnpq.br/5780998946017708", 
       foto: "imagens/SUSANA QUIZ 1.jpg",
       email: "laresu@hotmail.com" 
