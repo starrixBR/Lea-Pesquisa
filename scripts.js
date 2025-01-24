@@ -2,15 +2,27 @@
 // Professores com links, idiomas e áreas
 const professores = [
     { 
+      nome: "Adriana Fernandes Barbosa", 
+      areas: ["Língua e cultura", "Linguística", "Multimodalidade na Interação Face a Face ou Mediada",
+    "Semiótica Social", "Linguística Cognitiva", "Linguística Cultural"], 
+      /* Sugeriu: Multimodalidade na interação face a face ou mediada / 
+      Semiótica Social / Linguística Cognitiva e Cultural!*/
+      linguas: ["Alemão", "Inglês"], 
+      lattes: "http://lattes.cnpq.br/3065127356052281", 
+      foto: "imagens/ADRIANA QUIZ.jpg",
+      email: "adriana.barbosa@unb.br" 
+    },
+    { 
       nome: "Alessandra Matias Querido", 
-      areas: ["História em quadrinhos"], 
+      areas: ["História em quadrinhos","Sociedade da Informação", "Tradução", "Língua e cultura",
+      "Literatura e outras artes","Questões de gênero"], 
       linguas: ["Inglês"], 
       lattes: "http://lattes.cnpq.br/9582760816449975", 
       foto: "imagens/ALESSANDRA QUIZ.jpg",
       email: "alequerido@gmail.com"
     },
     { 
-      nome: "Antônio Marcos Moreira", 
+      nome: "Antônio Marcos Moreira", // 1 Não respondeu o Forms!
       areas: ["Questões de gênero"], 
       linguas: ["Francês"], 
       lattes: "http://lattes.cnpq.br/6191585855165430", 
@@ -19,14 +31,16 @@ const professores = [
     },
     { 
       nome: "Cesário Alvim Pereira Filho", 
-      areas: ["Linguística"], 
+      areas: ["Linguística", "Sociedade da Informação", "Multilinguismo", "Língua e cultura", "Políticas linguísticas ", 
+      "Ciberespaço"], 
+      // Sugeriu: Políticas linguísticas e ciberespaço!
       linguas: ["Espanhol"], 
       lattes: "http://lattes.cnpq.br/1267243719297020", 
       foto: "imagens/CESARIO QUIZ.jpg",
       email: "cesape@gmail.com"  
     },
     { 
-      nome: "Charles Rocha Teixeira", 
+      nome: "Charles Rocha Teixeira", // 2 Não respondeu o Forms!
       areas: ["Tradução"], 
       linguas: ["Francês"], 
       lattes: "http://lattes.cnpq.br/4928757305118743", 
@@ -34,7 +48,7 @@ const professores = [
       email: "charlesrt2006@gmail.com"  
     },
     { 
-      nome: "Clarissa Prado Marini", 
+      nome: "Clarissa Prado Marini", // 3 Não respondeu o Forms!
       areas: ["Linguística"], 
       linguas: ["Francês"], 
       lattes: "http://lattes.cnpq.br/4474411320594145", 
@@ -43,22 +57,33 @@ const professores = [
     },
     { 
       nome: "Fernanda Alencar Pereira", 
-      areas: ["Literatura"], 
-      linguas: ["Inglês"], 
+      areas: ["Literatura", "Tradução","Tradução","Multilinguismo",
+      "Língua e cultura","Literatura e outras artes","Histórias em quadrinhos", "Questões de gêner"], 
+      linguas: ["Inglês", "Francês"], 
       lattes: "http://lattes.cnpq.br/6007880701572434", 
       foto: "imagens/FERNANDA QUIZ.jpg",
       email: "fapfernanda@gmail.com" 
     },
     { 
+      nome: "Francisco Claudio Sampaio de Menezes", 
+      areas: ["Linguística de Corpus", "Programação", "Sociedade da Informação", "Tradução", "Multilinguismo", 
+      "Línguas indígenas", "Processamento da Linguagem Natural"], // Sugeriu: Processamento da Linguagem Natural
+      linguas: ["Inglês", "Francês", "Espanhol"], 
+      lattes: "http://lattes.cnpq.br/0356163607813759", 
+      foto: "FRANCISCO QUIZ 2.jpg",
+      email: "claudiomenezes@unb.br" 
+    },
+    { 
       nome: "Helena Santiago Vigata", 
-      areas: ["Programação"], 
-      linguas: ["Espanhol"], 
+      areas: ["Linguística", "Linguística de Corpus", "Acessibilidade", "Multilinguismo", "Língua e cultura", 
+      "Literatura e outras artes"], 
+      linguas: ["Inglês", "Francês"], 
       lattes: "http://lattes.cnpq.br/9968961018763883", 
       foto: "imagens/HELENA QUIZ.jpg",
       email: "hsantiago@unb.br" 
     },
     { 
-      nome: "Marcos de Campos Carneiro", 
+      nome: "Marcos de Campos Carneiro", // 4 Não respondeu o Forms!
       areas: ["Linguística de Corpus"], 
       linguas: ["Francês"], 
       lattes: "http://lattes.cnpq.br/4189312022390606", 
@@ -67,14 +92,16 @@ const professores = [
     },
     { 
       nome: "Susana Martínez Martínez", 
-      areas: ["Multilinguismo", "Línguas indígenas"], 
-      linguas: ["Espanhol"], 
+      areas: ["Multilinguismo", "Línguas indígenas", "Sociedade da Informação", "Tradução", "Língua e cultura", 
+      "Questões de gênero", "Interpretação", "Sociolinguística", "Sociologia da linguagem", "Migrações internacionais"], 
+      // Sugeriu: Interpretação, sociolinguística, sociologia da linguagem e migrações internacionais!
+      linguas: ["Espanhol", "Inglês", "Francês",], //Sugeriu: Português! 
       lattes: "http://lattes.cnpq.br/5780998946017708", 
       foto: "imagens/SUSANA QUIZ 1.jpg",
       email: "laresu@hotmail.com" 
     },
     { 
-      nome: "Thiago Blanch Pires", 
+      nome: "Thiago Blanch Pires", // 5 Não respondeu o Forms!
       areas: ["Programação", "Multilinguísmo"], 
       linguas: ["Inglês"], 
       lattes: "http://lattes.cnpq.br/9911777987987166", 
@@ -83,20 +110,13 @@ const professores = [
     },
     { 
       nome: "Virgílio Pereira de Almeida", 
-      areas: ["Língua e cultura"], 
+      areas: ["Língua e cultura","Linguística", "Sociolinguística"], // Sugeriu: Sociolinguística!
       linguas: ["Inglês"], 
       lattes: "http://lattes.cnpq.br/5592207745863438", 
       foto: "imagens/VIRGÍLIO QUIZ.jpg",
       email: "virgilioalm@unb.br" 
     },
-    { 
-      nome: "Adriana Fernandes Barbosa", 
-      areas: ["Língua e cultura"], 
-      linguas: ["Alemão"], 
-      lattes: "http://lattes.cnpq.br/3065127356052281", 
-      foto: "imagens/ADRIANA QUIZ.jpg",
-      email: "adriana.barbosa@unb.br" 
-    },
+
     // Adicione os outros professores aqui...
   ];
 
