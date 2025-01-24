@@ -70,7 +70,7 @@ const professores = [
       "Línguas indígenas", "Processamento da Linguagem Natural"], // Sugeriu: Processamento da Linguagem Natural
       linguas: ["Inglês", "Francês", "Espanhol"], 
       lattes: "http://lattes.cnpq.br/0356163607813759", 
-      foto: "FRANCISCO QUIZ 2.jpg",
+      foto: "imagens/FRANCISCO QUIZ 2.jpg",
       email: "claudiomenezes@unb.br" 
     },
     { 
