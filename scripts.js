@@ -3,7 +3,7 @@
 const professores = [
     { 
       nome: "Adriana Fernandes Barbosa", 
-      areas: ["Língua e cultura", "Linguística", "Multimodalidade na Interação Face a Face ou Mediada",
+      areas: ["Língua e Cultura", "Linguística", "Multimodalidade na Interação Face a Face ou Mediada",
     "Semiótica Social", "Linguística Cognitiva", "Linguística Cultural"], 
       /* Sugeriu: Multimodalidade na interação face a face ou mediada / 
       Semiótica Social / Linguística Cognitiva e Cultural!*/
@@ -14,7 +14,7 @@ const professores = [
     },
     { 
       nome: "Alessandra Matias Querido", 
-      areas: ["História em quadrinhos","Sociedade da Informação", "Tradução", "Língua e cultura",
+      areas: ["História em quadrinhos","Sociedade da Informação", "Tradução", "Língua e Cultura",
       "Literatura e outras artes","Questões de gênero"], 
       linguas: ["Inglês"], 
       lattes: "http://lattes.cnpq.br/9582760816449975", 
@@ -31,7 +31,7 @@ const professores = [
     },
     { 
       nome: "Cesário Alvim Pereira Filho", 
-      areas: ["Linguística", "Sociedade da Informação", "Multilinguismo", "Língua e cultura", "Políticas linguísticas ", 
+      areas: ["Linguística", "Sociedade da Informação", "Multilinguismo", "Língua e Cultura", "Políticas Linguísticas", 
       "Ciberespaço"], 
       // Sugeriu: Políticas linguísticas e ciberespaço!
       linguas: ["Espanhol"], 
@@ -58,7 +58,7 @@ const professores = [
     { 
       nome: "Fernanda Alencar Pereira", 
       areas: ["Literatura", "Tradução","Tradução","Multilinguismo",
-      "Língua e cultura","Literatura e outras artes","Histórias em quadrinhos", "Questões de gêner"], 
+      "Língua e Cultura","Literatura e outras artes","Histórias em quadrinhos", "Questões de gêner"], 
       linguas: ["Inglês", "Francês"], 
       lattes: "http://lattes.cnpq.br/6007880701572434", 
       foto: "imagens/FERNANDA QUIZ.jpg",
@@ -75,7 +75,7 @@ const professores = [
     },
     { 
       nome: "Helena Santiago Vigata", 
-      areas: ["Linguística", "Linguística de Corpus", "Acessibilidade", "Multilinguismo", "Língua e cultura", 
+      areas: ["Linguística", "Linguística de Corpus", "Acessibilidade", "Multilinguismo", "Língua e Cultura", 
       "Literatura e outras artes"], 
       linguas: ["Inglês", "Francês"], 
       lattes: "http://lattes.cnpq.br/9968961018763883", 
@@ -92,7 +92,7 @@ const professores = [
     },
     { 
       nome: "Susana Martínez Martínez", 
-      areas: ["Multilinguismo", "Línguas indígenas", "Sociedade da Informação", "Tradução", "Língua e cultura", 
+      areas: ["Multilinguismo", "Línguas indígenas", "Sociedade da Informação", "Tradução", "Língua e Cultura", 
       "Questões de gênero", "Interpretação", "Sociolinguística", "Sociologia da Linguagem", "Migrações internacionais"], 
       // Sugeriu: Interpretação, sociolinguística, sociologia da linguagem e migrações internacionais!
       linguas: ["Espanhol", "Inglês", "Francês","Português"], //Sugeriu: Português! 
@@ -110,7 +110,7 @@ const professores = [
     },
     { 
       nome: "Virgílio Pereira de Almeida", 
-      areas: ["Língua e cultura","Linguística", "Sociolinguística"], // Sugeriu: Sociolinguística!
+      areas: ["Língua e Cultura","Linguística", "Sociolinguística"], // Sugeriu: Sociolinguística!
       linguas: ["Inglês"], 
       lattes: "http://lattes.cnpq.br/5592207745863438", 
       foto: "imagens/VIRGÍLIO QUIZ.jpg",
