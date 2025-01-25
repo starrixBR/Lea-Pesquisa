@@ -14,8 +14,8 @@ const professores = [
     },
     { 
       nome: "Alessandra Matias Querido", 
-      areas: ["História em quadrinhos","Sociedade da Informação", "Tradução", "Língua e Cultura",
-      "Literatura e outras artes","Questões de gênero"], 
+      areas: ["História em Quadrinhos","Sociedade da Informação", "Tradução", "Língua e Cultura",
+      "Literatura e Outras Artes","Questões de Gênero"], 
       linguas: ["Inglês"], 
       lattes: "http://lattes.cnpq.br/9582760816449975", 
       foto: "imagens/ALESSANDRA QUIZ.jpg",
@@ -23,7 +23,7 @@ const professores = [
     },
     { 
       nome: "Antônio Marcos Moreira", // 1 Não respondeu o Forms!
-      areas: ["Questões de gênero"], 
+      areas: ["Questões de Gênero"], 
       linguas: ["Francês"], 
       lattes: "http://lattes.cnpq.br/6191585855165430", 
       foto: "imagens/ANTÔNIO QUIZ.jpg",
@@ -58,7 +58,7 @@ const professores = [
     { 
       nome: "Fernanda Alencar Pereira", 
       areas: ["Literatura", "Tradução","Tradução","Multilinguismo",
-      "Língua e Cultura","Literatura e outras artes","Histórias em quadrinhos", "Questões de gêner"], 
+      "Língua e Cultura","Literatura e Outras Artes","Histórias em Quadrinhos", "Questões de Gêner"], 
       linguas: ["Inglês", "Francês"], 
       lattes: "http://lattes.cnpq.br/6007880701572434", 
       foto: "imagens/FERNANDA QUIZ.jpg",
@@ -67,7 +67,7 @@ const professores = [
     { 
       nome: "Francisco Claudio Sampaio de Menezes", 
       areas: ["Linguística de Corpus", "Programação", "Sociedade da Informação", "Tradução", "Multilinguismo", 
-      "Línguas indígenas", "Processamento da Linguagem Natural"], // Sugeriu: Processamento da Linguagem Natural
+      "Línguas Indígenas", "Processamento da Linguagem Natural"], // Sugeriu: Processamento da Linguagem Natural
       linguas: ["Inglês", "Francês", "Espanhol"], 
       lattes: "http://lattes.cnpq.br/0356163607813759", 
       foto: "imagens/FRANCISCO QUIZ 2.jpg",
@@ -76,7 +76,7 @@ const professores = [
     { 
       nome: "Helena Santiago Vigata", 
       areas: ["Linguística", "Linguística de Corpus", "Acessibilidade", "Multilinguismo", "Língua e Cultura", 
-      "Literatura e outras artes"], 
+      "Literatura e Outras Artes"], 
       linguas: ["Inglês", "Francês"], 
       lattes: "http://lattes.cnpq.br/9968961018763883", 
       foto: "imagens/HELENA QUIZ.jpg",
@@ -93,7 +93,7 @@ const professores = [
     { 
       nome: "Susana Martínez Martínez", 
       areas: ["Multilinguismo", "Línguas indígenas", "Sociedade da Informação", "Tradução", "Língua e Cultura", 
-      "Questões de gênero", "Interpretação", "Sociolinguística", "Sociologia da Linguagem", "Migrações internacionais"], 
+      "Questões de Gênero", "Interpretação", "Sociolinguística", "Sociologia da Linguagem", "Migrações Internacionais"], 
       // Sugeriu: Interpretação, sociolinguística, sociologia da linguagem e migrações internacionais!
       linguas: ["Espanhol", "Inglês", "Francês","Português"], //Sugeriu: Português! 
       lattes: "http://lattes.cnpq.br/5780998946017708", 
