@@ -21,14 +21,14 @@ const professores = [
       foto: "imagens/ALESSANDRA QUIZ.jpg",
       email: "alequerido@gmail.com"
     },
-    { 
+    /*{ 
       nome: "Antônio Marcos Moreira", // 1 Não respondeu o Forms!
       areas: ["Questões de Gênero"], 
       linguas: ["Francês"], 
       lattes: "http://lattes.cnpq.br/6191585855165430", 
       foto: "imagens/ANTÔNIO QUIZ.jpg",
       email: "marcosmoreira@unb.br" 
-    },
+    },*/
     { 
       nome: "Cesário Alvim Pereira Filho", 
       areas: ["Linguística", "Sociedade da Informação", "Multilinguismo", "Língua e Cultura", "Políticas Linguísticas", 
@@ -39,22 +39,22 @@ const professores = [
       foto: "imagens/CESARIO QUIZ.jpg",
       email: "cesape@gmail.com"  
     },
-    { 
+    /*{ 
       nome: "Charles Rocha Teixeira", // 2 Não respondeu o Forms!
       areas: ["Tradução"], 
       linguas: ["Francês"], 
       lattes: "http://lattes.cnpq.br/4928757305118743", 
       foto: "imagens/CHARLES QUIZ.jpg",
       email: "charlesrt2006@gmail.com"  
-    },
-    { 
+    },*/
+    /*{ 
       nome: "Clarissa Prado Marini", // 3 Não respondeu o Forms!
       areas: ["Linguística"], 
       linguas: ["Francês"], 
       lattes: "http://lattes.cnpq.br/4474411320594145", 
       foto: "imagens/CLARISSA QUIZ.jpg",
       email: "clarissamarini@gmail.com" 
-    },
+    },*/
     { 
       nome: "Fernanda Alencar Pereira", 
       areas: ["Literatura", "Tradução","Tradução","Multilinguismo",
@@ -82,14 +82,14 @@ const professores = [
       foto: "imagens/HELENA QUIZ.jpg",
       email: "hsantiago@unb.br" 
     },
-    { 
+    /*{ 
       nome: "Marcos de Campos Carneiro", // 4 Não respondeu o Forms!
       areas: ["Linguística de Corpus"], 
       linguas: ["Francês"], 
       lattes: "http://lattes.cnpq.br/4189312022390606", 
       foto: "imagens/MARCOS QUIZ.jpg",
       email: "mdecampos@unb.br" 
-    },
+    },*/
     { 
       nome: "Susana Martínez Martínez", 
       areas: ["Multilinguismo", "Línguas indígenas", "Sociedade da Informação", "Tradução", "Língua e Cultura", 
@@ -100,14 +100,14 @@ const professores = [
       foto: "imagens/SUSANA QUIZ 1.jpg",
       email: "laresu@hotmail.com" 
     },
-    { 
+    /*{ 
       nome: "Thiago Blanch Pires", // 5 Não respondeu o Forms!
       areas: ["Programação", "Multilinguísmo"], 
       linguas: ["Inglês"], 
       lattes: "http://lattes.cnpq.br/9911777987987166", 
       foto: "imagens/THIAGO QUIZ 1.jpg",
       email: "thiagocomaga@gmail.com" 
-    },
+    },*/
     { 
       nome: "Virgílio Pereira de Almeida", 
       areas: ["Língua e Cultura","Linguística", "Sociolinguística"], // Sugeriu: Sociolinguística!
