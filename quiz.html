@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lea Pesquisa 2025 </title> 
+    <link rel="icon" type="image/png" sizes="16x16" href="imagens/favicon.ico">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="btn-container">
+    <button name="increase-font" id="increase-font" title="Aumentar fonte">A +</button>
+    <button name="decrease-font" id="decrease-font" title="Diminuir fonte">A -</button>
+
+
+<button onclick="darkmode()">Modo Escuro</button>
+    <header>
+    Lea Pesquisa 2025
+    </header>
+    <nav>
+      <a href="index.html">Pagina inicial</a>
+      <a href="apresentação.html">Apresentação</a>
+      <a href="Programação.html">Programação</a>
+      <a href="quiz.html">Quiz</a>
+      <a href="edições.html">Edições anteriores</a>
+        </nav>
+<br>
+<br>
+<main>
+<h1>quiz de busca</h1>
+
+  <main>
+    <!-- Quiz para Alunos -->
+    <section id="quiz-aluno">
+      <h2>Encontre seu Professor Ideal</h2>
+      <form id="quiz-form">
+        <div>
+          <h3>Selecione suas áreas de interesse:</h3>
+          <div id="areas-interesse">
+            <button type="button" class="btn-interesse" data-value="Ciberespaço">Ciberespaço</button>
+            <button type="button" class="btn-interesse" data-value="História em Quadrinhos">História em Quadrinhos</button>
+            <button type="button" class="btn-interesse" data-value="Interpretação">Interpretação</button>
+            <button type="button" class="btn-interesse" data-value="Linguística Cognitiva">Linguística Cognitiva</button>
+            <button type="button" class="btn-interesse" data-value="Linguística Cultural">Linguística Cultural</button>
+            <button type="button" class="btn-interesse" data-value="Linguística de Corpus">Linguística de Corpus</button>
+            <button type="button" class="btn-interesse" data-value="Linguística">Linguística</button>
+            <button type="button" class="btn-interesse" data-value="Literatura">Literatura</button>
+            <button type="button" class="btn-interesse" data-value="Língua e Cultura">Língua e Cultura</button>
+            <button type="button" class="btn-interesse" data-value="Línguas Indígenas">Línguas Indígenas</button>
+            <button type="button" class="btn-interesse" data-value="Migrações Internacionais">Migrações Internacionais</button>
+            <button type="button" class="btn-interesse" data-value="Multilinguismo">Multilinguísmo</button>
+            <button type="button" class="btn-interesse" data-value="Multimodalidade na Interação Face a Face ou Mediada">Multimodalidade na Interação Face a Face ou Mediada</button>
+            <button type="button" class="btn-interesse" data-value="Políticas Linguísticas">Políticas Linguísticas</button>
+            <button type="button" class="btn-interesse" data-value="Processamento da Linguagem Natural">Processamento da Linguagem Natural</button>
+            <button type="button" class="btn-interesse" data-value="Programação">Programação</button>
+            <button type="button" class="btn-interesse" data-value="Questões de Gênero">Questões de Gênero</button>
+            <button type="button" class="btn-interesse" data-value="Semiótica Social">Semiótica Social</button>
+            <button type="button" class="btn-interesse" data-value="Sociolinguística">Sociolinguística </button>
+            <button type="button" class="btn-interesse" data-value="Sociologia da Linguagem">Sociologia da Linguagem</button>
+            <!--<button type="button" class="btn-interesse" data-value="Terminologia">Terminologia</button>-->
+            <button type="button" class="btn-interesse" data-value="Tradução">Tradução</button>
+          </div>
+        </div>
+        <div>
+          <h3>Selecione suas línguas de interesse:</h3>
+          <div id="linguas-interesse">
+            <button type="button" class="btn-interesse" data-value="Alemão">Alemão</button>
+            <button type="button" class="btn-interesse" data-value="Espanhol">Espanhol</button>
+            <button type="button" class="btn-interesse" data-value="Francês">Francês</button>
+            <button type="button" class="btn-interesse" data-value="Inglês">Inglês</button>
+            <button type="button" class="btn-interesse" data-value="Português">Português</button>
+          </div>
+        </div>
+        <button type="submit">Encontrar Professores</button>
+      </form>
+      <div id="resultados"></div>
+    </section>
+    
+    <!-- Sistema de Feedback
+    <section id="feedback">
+      <h2>Avalie sua experiência</h2>
+      <form id="form-feedback">
+        <input type="text" id="nome-professor" placeholder="Nome do Professor" required>
+        <textarea id="avaliacao" placeholder="Deixe seu feedback..." required></textarea>
+        <button type="submit">Enviar Feedback</button>
+      </form>
+      <div id="mensagem-feedback"></div>
+    </section> -->
+  </main>
+
+  <script src="scripts.js"></script>
+  <br><br><br><br><br><br><br><br><br><br><br>
+
+        <footer>
+          &copy; LEA Pesquisa 2025. Todos os direitos reservados.
+       </footer>
+    <script src="fonte.js"></script>
+    <script src="darkmode.js"></script>
+</body>
+</html>
